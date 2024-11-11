@@ -52,7 +52,6 @@ refresh
 resin-trace
 retry-after
 rlogid
-set-cookie
 sfy
 status
 strict-transport-security
